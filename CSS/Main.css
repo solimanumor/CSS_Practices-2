@@ -1,0 +1,29 @@
+.future-goal{
+    background-color: powderblue;
+    border: 5px solid red;
+    border-radius: 20px;
+    margin: 20px 10px 50px 30px;
+    padding: 10px 50px 200px;
+}
+.Main-title{
+    text-align: center;
+    font-size: 20px;
+    color: saddlebrown;
+}
+.Title{
+    color: rgb(247, 42, 15);
+}
+.future-goal p{
+    text-align: justify;
+    color: salmon;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+}
+h2{
+    display: inline;
+    margin: 30px 10px;
+}
+small{
+    display: block;
+    margin-bottom: 10px;
+}
